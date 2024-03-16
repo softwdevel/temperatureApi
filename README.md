@@ -18,6 +18,7 @@ Response body
 }
 
 where value is type of float
+
 //*********// //*********// //*********// //*********//
 
 will return last value from past 24h if not found will return 0
