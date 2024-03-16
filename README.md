@@ -34,7 +34,7 @@ where value is type of float
 
 insert data into influxdb
 use http post method to use this api
-http://localhost:5221/api/v1/Temp
+http://localhost:5115/api/v1/Temp
 
 Request body
 
